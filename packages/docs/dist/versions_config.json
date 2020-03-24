@@ -1,6 +1,8 @@
 [
   {
     "name": "releases",
-    "versions": []
+    "versions": [
+      "v0.6.0-alpha.0"
+    ]
   }
 ]
